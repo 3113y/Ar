@@ -1,6 +1,6 @@
 <items gfxroot="gfx/items/" version="1">
    <passive id="1" name="King's New Lance" gfx="king_new_lance_item.png" description="Beautiful wishes made in dire straits can bring hope, even if they are not necessarily the truth" quality="3" cache="all" />
    <passive id="1" name="King's Legacy" gfx="king_legacy_item.png" description="Grow up and face reality. Arm yourself with tenacity and confidence, while showing your friends tolerance and grace" quality="3" cache="all" />
-   <passive id="1" name="King's Armor" gfx="king_armor_item.png" description="There used to be many golden display cases placed before the palace gates and in the square, displaying all sorts of treasures to admire. But now, it hurts just to think about such sights" quality="3" cache="all" />
-   <passive id="1" name="King's Crown" gfx="king_crown_item.png" description="O Nameless King, may you continue to bless Iberia, even should your kingdom fall to ruin" quality="3" cache="all" />
- </items>
+   <passive id="1" name="King's Armor" gfx="king_armor_item.png" description="There used to be many golden display cases placed before the palace gates and in the square, displaying all sorts of treasures to admire. But now, it hurts just to think about such sights" quality="1" cache="all" />
+   <passive id="1" name="King's Crown" gfx="king_crown_item.png" description="O Nameless King, may you continue to bless Iberia, even should your kingdom fall to ruin" quality="4" cache="all" />
+</items>

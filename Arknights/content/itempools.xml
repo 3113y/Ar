@@ -1,0 +1,26 @@
+<ItemPools>
+    <Pool Name="boss"> 
+        <Item Name="King's New Lance" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Legacy" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Armor" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Crown" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool> 
+    <Pool Name="treasure"> 
+        <Item Name="King's New Lance" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Legacy" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Armor" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Crown" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="shop"> 
+        <Item Name="King's New Lance" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Legacy" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Armor" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Crown" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="secret"> 
+        <Item Name="King's New Lance" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Legacy" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Armor" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="King's Crown" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+</ItemPools>
